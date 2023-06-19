@@ -4,4 +4,6 @@ public class GitMapper {
     public void add(){
 
     }
+
+    public void update(){}
 }
