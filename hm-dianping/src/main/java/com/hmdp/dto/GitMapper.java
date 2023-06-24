@@ -17,4 +17,6 @@ public class GitMapper {
     public void delete6(){}
     public void delete7(){}
     public void delete8(){}
+
+    public void testBranch(){}
 }
