@@ -5,7 +5,7 @@ public class GitMapper {
 
     public void update(){}
 
-    public void delete(){}
+    public void delete3(){}
 
     public void delete2(){}
 }
