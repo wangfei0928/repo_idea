@@ -1,9 +1,7 @@
 package com.hmdp.dto;
 
 public class GitMapper {
-    public void add(){
-
-    }
+    public void add(){}
 
     public void update(){}
 
